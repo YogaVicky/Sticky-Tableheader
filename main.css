@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(0, 255, 200, 0.1);
+}
+.intro{
+    color: rgb(228, 23, 23);
+}
+.wrapper{
+    overflow-y: scroll;
+    height: 400px;
+}
+.sticky{
+    position:sticky;
+    top:0;
+    color:black;
+    background-color: white;
+}
